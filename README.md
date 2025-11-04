@@ -27,22 +27,6 @@ It allows users to:
 
 ---
 
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/diabetes-dashboard.git
-   cd diabetes-dashboard
-# Diabetes-Prediction
-Install dependencies:
-pip install -r requirements.txt
-
-Run the Streamlit app:
-streamlit run app.py
-Dataset
-
-Uses the Pima Indians Diabetes dataset
-
 
 
 
